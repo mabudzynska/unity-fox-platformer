@@ -3,11 +3,11 @@
 Simple 2D platformer game created in Unity.
 
 Features:
-- player movement and jumping
-- enemy AI
-- moving platforms
-- score system
-- pause menu and level transitions
+- Player movement and jumping
+- Enemy AI
+- Moving platforms
+- Score system
+- Pause menu and level transitions
 
 Technologies:
 - Unity
